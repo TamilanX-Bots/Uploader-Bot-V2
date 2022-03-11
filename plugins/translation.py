@@ -67,33 +67,33 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🗜️ sᴇᴛᴛɪɴɢs', callback_data='OpenSettings')
+        InlineKeyboardButton('sᴇᴛᴛɪɴɢs', callback_data='OpenSettings')
         ],[
-        InlineKeyboardButton('❔ ʜᴇʟᴘ', callback_data='help'),
-        InlineKeyboardButton('👨‍🚒 ᴀʙᴏᴜᴛ', callback_data='about')
+        InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
+        InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ],[
-        InlineKeyboardButton('♨️ ᴄʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🏡 ʜᴏᴍᴇ', callback_data='home'),
-        InlineKeyboardButton('👨‍🚒 ᴀʙᴏᴜᴛ', callback_data='about')
+        InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ],[
-        InlineKeyboardButton('♨️ ᴄʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🏡 ʜᴏᴍᴇ', callback_data='home'),
-        InlineKeyboardButton('❔ ʜᴇʟᴘ', callback_data='help')
+        InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help')
         ],[
-        InlineKeyboardButton('♨️ ᴄʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('♨️ ᴄʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     TEXT = "sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴛᴏ sᴇᴛ ɪᴛ"
